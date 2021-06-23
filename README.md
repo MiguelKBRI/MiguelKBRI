@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiguelKBRI
 - 👀 I’m interested in auditory-motor interaction and integration
-- 🌱 I’m currently learning DeepLabCut and TendorFlow
+- 🌱 I’m currently learning DeepLabCut and TensorFlow
 - 💞️ I’m looking to collaborate on (I'm open to projects, at least in principle)
 - 📫 How to reach me: miguel_sanchez@kbri.re.kr
 
